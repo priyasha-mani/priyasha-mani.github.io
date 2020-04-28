@@ -29,8 +29,11 @@ header {
   top: 0;
   width: 100%;
   padding-top: 10px;
-  padding-left: 5%;
   height: 50px;
+}
+
+header img{
+  padding-left: 15px; 
 }
 
 
@@ -94,7 +97,7 @@ p {
 
 .spacer {
   float: right;
-  width: 100px;
+  width: 10px;
   height: 100%;
 }
 
