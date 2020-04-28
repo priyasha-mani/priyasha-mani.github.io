@@ -1,6 +1,6 @@
 html, body {
-  height: 100%;
-  width: 100%;
+  /* height: 100%;
+  width: 100%; */
   background: #252525;
   /* background-image: url("../images/bkg.png"); */
 }
@@ -198,7 +198,7 @@ p {
 
 .author-spacer {
 width: 100%;
-height: 50px;
+height: 40px;
 background: green;
 }
 
@@ -215,7 +215,7 @@ background: green;
 
 .contact-name p{
   /* background: yellow; */
-  margin-top: 12px;
+  margin-top: 10px;
   font-size: 15px;
 }
 
