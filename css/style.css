@@ -95,7 +95,7 @@ p {
 
 .pages {
   /* background: white; */
-  width: 80px;
+  width: 13%;
   height: 40px;
   float: right;
   text-align: center;
@@ -165,7 +165,7 @@ p {
   text-align: center;
   position: relative;
   color: white;
-  padding: 7% 20% 0 20%;
+  padding: 60px 20% 0 20%;
   margin-bottom: 0;
   /* right: 0; */
   z-index: 2;
@@ -180,13 +180,14 @@ p {
   width: 50%;
   height: 1px;
   border-color: white;
+  color: white;
   background-color: white;
   margin-bottom: 20px;
 }
 
 .contact-info {
   position: relative;
-  width: 80%;
+  width: 75%;
   padding-left: 25%;
   height: 50px;
   margin-bottom: 10px;
@@ -196,10 +197,10 @@ p {
 }
 
 /* .contact-spacer {
-  float: left;
-  width: 20%;
-  height: 100%;
-  background: green;
+float: left;
+width: 20%;
+height: 100%;
+background: green;
 } */
 
 .image {
@@ -242,6 +243,7 @@ p {
 
 .blogs-div a:visited {
   text-decoration: none;
+  /* background: white; */
 }
 
 .black:hover {
@@ -258,7 +260,7 @@ p {
 }
 
 .blog h1 {
-  font-size: 40px;
+  font-size: 30px;
   padding-top: 30px;
   text-align: center;
   margin-bottom: 0;
