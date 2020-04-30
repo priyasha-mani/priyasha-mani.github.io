@@ -58,8 +58,8 @@ h1 {
   line-height: 18px;
 }
 
-h3 {
-  margin-top: 10px;;
+.author-div h3 {
+  margin-top: 10px;
   font-size: 25px;
 }
 
@@ -227,12 +227,17 @@ height: 50px;
 .black {
   background: #252525;
   color: white;
-  padding: 2px 10px 2px 10px;
+  padding: 5px 5px 5px 5px;
   width: 100%;
-  margin-top: 10px;
+  margin-top: 20px;
   border-radius: 5px;
   text-decoration: none;
   box-shadow: 0 0 5px black;
+}
+
+.black h3 {
+  /* background: green; */
+  font-size: 25px;
 }
 
 .blogs-div a {
